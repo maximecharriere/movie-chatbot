@@ -13,6 +13,7 @@ https://colab.research.google.com/github/maximecharriere/movie-chatbot/blob/mast
 - [The Beginner’s Guide to Text Vectorization](https://monkeylearn.com/blog/beginners-guide-text-vectorization/)
 - [Sentiment Analysis](https://monkeylearn.com/sentiment-analysis/)
 - [Deep Learning for NLP](https://medium.com/dair-ai/deep-learning-for-nlp-an-overview-of-recent-trends-d0d8f40a776d)
+- [Google text classification Guide](https://developers.google.com/machine-learning/guides/text-classification/)
 
 
 ### Vocabulary list
@@ -34,13 +35,14 @@ Word to vectors:
 * [GloVe](https://nlp.stanford.edu/projects/glove/)
 * [word2vec](https://pathmind.com/wiki/word2vec)
  6. For the input text, fill a list of the size of the vocabulary list, with the score of each word.
-    The following scoring method can be use.
+    The following scoring method can be use for n-gram:
     * Binary, i.e. the word is present or not in the text
     * Count, i.e. the number of time the word appear in the text
     * Frequency, i.e. Count/Total number of words in the text
     * TF-IDF (Term Frequency – Inverse Document Frequency), i.e. the score increase with the word frequency, but a penality is given if this word is widely used in the training set (like 'for', 'a', 'the'). The scores have the effect of highlighting words that are distinct (contain useful information) in a given text.
+ 6. If the dataset is big and the sentence are small, we can use word embeddings.
 #### Classification
- 7. TEXT
+ 8. TEXT
     * [Multinomial Naive Bayes (MNB)](https://monkeylearn.com/text-classification-naive-bayes/)
     * [Support Vector Machines (SVM)](https://monkeylearn.com/text-classification-support-vector-machines-svm/)
 
