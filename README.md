@@ -14,6 +14,7 @@ https://colab.research.google.com/github/maximecharriere/movie-chatbot/blob/mast
 - [Sentiment Analysis](https://monkeylearn.com/sentiment-analysis/)
 - [Deep Learning for NLP](https://medium.com/dair-ai/deep-learning-for-nlp-an-overview-of-recent-trends-d0d8f40a776d)
 - [Google text classification Guide](https://developers.google.com/machine-learning/guides/text-classification/)
+- [Genre classification based on wiki movies plots](https://www.kaggle.com/aminejallouli/genre-classification-based-on-wiki-movies-plots/notebook#3.-Classifiers-Training)
 
 
 ### Vocabulary list
