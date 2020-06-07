@@ -41,10 +41,13 @@ Word to vectors:
     * Frequency, i.e. Count/Total number of words in the text
     * TF-IDF (Term Frequency – Inverse Document Frequency), i.e. the score increase with the word frequency, but a penality is given if this word is widely used in the training set (like 'for', 'a', 'the'). The scores have the effect of highlighting words that are distinct (contain useful information) in a given text.
  6. If the dataset is big and the sentence are small, we can use word embeddings.
+ 
+ Temps Colab 25min, Temps local 22min
 #### Classification
- 8. TEXT
+ 8. SVM is machine learing algorithm, MLP is a deep learning algorithm
     * [Multinomial Naive Bayes (MNB)](https://monkeylearn.com/text-classification-naive-bayes/)
     * [Support Vector Machines (SVM)](https://monkeylearn.com/text-classification-support-vector-machines-svm/)
+    * [Multilayer perceptron (MLP)](https://en.wikipedia.org/wiki/Multilayer_perceptron)
 
 
 ### Notes
