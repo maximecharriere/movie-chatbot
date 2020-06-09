@@ -14,6 +14,7 @@ https://colab.research.google.com/github/maximecharriere/movie-chatbot/blob/mast
 - [Sentiment Analysis](https://monkeylearn.com/sentiment-analysis/)
 - [Deep Learning for NLP](https://medium.com/dair-ai/deep-learning-for-nlp-an-overview-of-recent-trends-d0d8f40a776d)
 - [Google text classification Guide](https://developers.google.com/machine-learning/guides/text-classification/)
+- [Genre classification based on wiki movies plots](https://www.kaggle.com/aminejallouli/genre-classification-based-on-wiki-movies-plots/notebook#3.-Classifiers-Training)
 
 
 ### Vocabulary list
@@ -41,10 +42,13 @@ Word to vectors:
     * Frequency, i.e. Count/Total number of words in the text
     * TF-IDF (Term Frequency – Inverse Document Frequency), i.e. the score increase with the word frequency, but a penality is given if this word is widely used in the training set (like 'for', 'a', 'the'). The scores have the effect of highlighting words that are distinct (contain useful information) in a given text.
  6. If the dataset is big and the sentence are small, we can use word embeddings.
+ 
+ Temps Colab 25min, Temps local 22min
 #### Classification
- 8. TEXT
+ 8. SVM is machine learing algorithm, MLP is a deep learning algorithm
     * [Multinomial Naive Bayes (MNB)](https://monkeylearn.com/text-classification-naive-bayes/)
     * [Support Vector Machines (SVM)](https://monkeylearn.com/text-classification-support-vector-machines-svm/)
+    * [Multilayer perceptron (MLP)](https://en.wikipedia.org/wiki/Multilayer_perceptron)
 
 
 ### Notes
