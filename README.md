@@ -1,7 +1,7 @@
 # movie-chatbot
 
 ### JupyterNotebook:
-https://colab.research.google.com/github/maximecharriere/movie-chatbot/blob/master/MoviesClassifier/movie-classifier.ipynb
+This NoteBook can totaly be run on **GoogleColab**, try it!   --> <a href="https://colab.research.google.com/github/maximecharriere/movie-chatbot/blob/master/MoviesClassifier/movie-classifier.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ### Usefull Links:
 - [The Definitive Guide to Natural Language Processing (NLP)](https://monkeylearn.com/blog/definitive-guide-natural-language-processing/)
